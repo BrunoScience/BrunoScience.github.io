@@ -7,7 +7,7 @@ categories: projects
 ---
 
 
-*“The best that most of us can hope to achieve in Physics is simply to misunderstand at a deeper level.”*
+*“The best that most of us can hope to achieve in science is simply to misunderstand at a deeper level.”*
 ― Wolfgang Pauli
 
 The [LAUNCH of the James Webb Space Telescope (JWST) on December 25, 2021](https://en.wikipedia.org/wiki/Timeline_of_the_James_Webb_Space_Telescope) was certainly a big event, but the larger timeline furnishes an example of how much planning, extra effort in brand new technology development and just execution of the original visions goes into serious scientific projects, even ones that are not as large as JWST.
